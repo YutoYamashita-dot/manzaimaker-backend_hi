@@ -1,5 +1,5 @@
 {
-  "name": "manzaimaker-backend",
+  "name": "manzaimaker-hi-backend",
   "version": "1.1.0",
   "type": "module",
   "description": "ManzaiMaker backend powered by xAI (Grok-4) and Supabase",
